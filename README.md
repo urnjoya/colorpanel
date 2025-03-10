@@ -1,5 +1,3 @@
-# colorpanel
-A simple HEX code generator.
 # 🎨 Color Panel (Hex Color Generator)
 
 A simple **Hex Color Generator** that:  
